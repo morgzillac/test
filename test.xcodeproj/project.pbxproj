@@ -6,10 +6,17 @@
 	objectVersion = 48;
 	objects = {
 
+/* Begin PBXFileReference section */
+		8E9862401FCD45F4006CB6CB /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
+		8E9862411FCD45F4006CB6CB /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		8E9862391FCD3422006CB6CB = {
 			isa = PBXGroup;
 			children = (
+				8E9862401FCD45F4006CB6CB /* main.h */,
+				8E9862411FCD45F4006CB6CB /* main.c */,
 			);
 			sourceTree = "<group>";
 		};
